@@ -1,0 +1,3 @@
+[submodule "hungg"]
+	path = hungg
+	url = https://github.com/HungKeet/hungg.git
